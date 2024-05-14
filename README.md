@@ -32,7 +32,7 @@ We'd love to hear from you! If you encounter any issues or have suggestions for 
 
 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : [https://www.instagram.com/freakidannker/](https://www.instagram.com/freakidannker/)
 
-𝐕𝐑𝐂𝐡𝐚𝐭 : 
+𝐕𝐑𝐂𝐡𝐚𝐭 : [https://vrchat.com/home/user/usr_b1140877-f43c-48ff-9f5e-2434bb846c98](https://vrchat.com/home/user/usr_b1140877-f43c-48ff-9f5e-2434bb846c98)
 
 Wallpaper :
 
