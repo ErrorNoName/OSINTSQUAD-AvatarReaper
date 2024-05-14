@@ -28,13 +28,11 @@ We'd love to hear from you! If you encounter any issues or have suggestions for 
 
 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 : [https://discord.gg/7KprcpxhEH](https://discord.gg/nEcDCWVwWW) // ErrorNoName
 
-𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : wait a fkg second lmao
+𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : [guns.lol/freakiv3](guns.lol/freakiv3)
 
 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : [https://www.instagram.com/freakidannker/](https://www.instagram.com/freakidannker/)
 
 𝐕𝐑𝐂𝐡𝐚𝐭 : [https://vrchat.com/home/user/usr_b1140877-f43c-48ff-9f5e-2434bb846c98](https://vrchat.com/home/user/usr_b1140877-f43c-48ff-9f5e-2434bb846c98)
-
-Wallpaper :
 
 Thank you for using VRC Scanner Tool!
 
