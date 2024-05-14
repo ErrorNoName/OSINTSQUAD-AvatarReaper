@@ -26,11 +26,11 @@ You're all set! You can now enjoy your local database created with VRC Scanner T
 
 We'd love to hear from you! If you encounter any issues or have suggestions for improvements, please don't hesitate to reach out. Your feedback is essential in making this tool better.
 
-𝐃𝐢𝐬𝐜𝐨𝐫𝐝 : [https://discord.gg/7KprcpxhEH](https://discord.gg/nEcDCWVwWW) // ErrorNoName
+𝐃𝐢𝐬𝐜𝐨𝐫𝐝 : [[https://discord.gg/7KprcpxhEH](https://discord.gg/nEcDCWVwWW)](https://discord.gg/nEcDCWVwWW) // ErrorNoName
 
 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : wait a fkg second lmao
 
-𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : [https://www.instagram.com/_thekawaiisquad_/](https://www.instagram.com/freakidannker/)
+𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : [https://www.instagram.com/freakidannker/](https://www.instagram.com/freakidannker/)
 
 𝐕𝐑𝐂𝐡𝐚𝐭 : 
 
