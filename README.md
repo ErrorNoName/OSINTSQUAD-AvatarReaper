@@ -26,7 +26,7 @@ You're all set! You can now enjoy your local database created with VRC Scanner T
 
 We'd love to hear from you! If you encounter any issues or have suggestions for improvements, please don't hesitate to reach out. Your feedback is essential in making this tool better.
 
-𝐃𝐢𝐬𝐜𝐨𝐫𝐝 : https://discord.gg/7KprcpxhEH // kaichisama
+𝐃𝐢𝐬𝐜𝐨𝐫𝐝 : [https://discord.gg/7KprcpxhEH](https://discord.gg/nEcDCWVwWW) // ErrorNoName
 
 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : wait a fkg second lmao
 
