@@ -32,10 +32,10 @@ We'd love to hear from you! If you encounter any issues or have suggestions for 
 
 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : https://www.instagram.com/_thekawaiisquad_/
 
-𝐕𝐑𝐂𝐡𝐚𝐭 : https://vrchat.com/home/group/grp_39d054ad-6a23-4857-9c72-a32899f7846b
+𝐕𝐑𝐂𝐡𝐚𝐭 : 
 
-Wallpaper : https://steamcommunity.com/sharedfiles/filedetails/?id=2981905773
+Wallpaper :
 
 Thank you for using VRC Scanner Tool!
 
-\- Kaichi-Sama
+\- ErrorNoName
