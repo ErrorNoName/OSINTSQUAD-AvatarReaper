@@ -100,10 +100,10 @@ def update_file(local_path, remote_url):
     return update_made
 
 files_to_update = {
-    "VRChatScanner.py": "https://raw.githubusercontent.com/vrchatapi/VRChatPython/master/vrcpy/avatar.py",
-    "Run_me_as_Admin.bat": "https://raw.githubusercontent.com/KaichiSama/VRCScannerTool/main/Run_me_as_Admin.bat",
-    "requirements.txt": "https://raw.githubusercontent.com/KaichiSama/VRCScannerTool/main/requirements.txt",
-    "README.md": "https://raw.githubusercontent.com/KaichiSama/VRCScannerTool/main/README.md"
+    "VRChatScanner.py": "https://raw.githubusercontent.com/ErrorNoName/OSINTSQUAD-AvatarReaper/main/VRChatScanner2.py",
+    "Run_me_as_Admin.bat": "https://raw.githubusercontent.com/ErrorNoName/OSINTSQUAD-AvatarReaper/main/Run_me_as_Admin.bat",
+    "requirements.txt": "https://raw.githubusercontent.com/ErrorNoName/OSINTSQUAD-AvatarReaper/main/requirements.txt",
+    "README.md": "https://raw.githubusercontent.com/ErrorNoName/OSINTSQUAD-AvatarReaper/main/README.md"
 }
 
 def check_for_updates(force_check=False):
