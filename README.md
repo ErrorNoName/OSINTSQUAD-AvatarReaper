@@ -30,7 +30,7 @@ We'd love to hear from you! If you encounter any issues or have suggestions for 
 
 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : wait a fkg second lmao
 
-𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : https://www.instagram.com/_thekawaiisquad_/
+𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : [https://www.instagram.com/_thekawaiisquad_/](https://www.instagram.com/freakidannker/)
 
 𝐕𝐑𝐂𝐡𝐚𝐭 : 
 
