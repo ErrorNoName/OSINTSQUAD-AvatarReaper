@@ -1,0 +1,2 @@
+1. Open NyDownS.exe
+2. Profit????
